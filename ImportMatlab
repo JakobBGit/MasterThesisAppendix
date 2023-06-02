@@ -1,0 +1,232 @@
+	Oslo og Viken		The values as percenentagse of the the mean of the annual rain and snowmelt from 01.01.1990 to 01.01.2023							
+response		faresone			year	Seasonal raind and snowmelt %	Annual rain and snowmelt %	Dates of DTM [D/M]		DTM [yes/no]	Elevation	Erosion between DTMs [m]	Erosion rate [m/year]
+Landslide		1323 Fossnes		2000	28								89							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2001	35								117							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2002	29								88							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2003	30								100							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2004	31								114							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2005	27								78							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2006	40								106							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2007	35								96							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2008	26								101							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2009	31								94							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2010	33								73							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2011	48								110							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2012	31								97							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2013	42								102							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2014	42								117							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2015	48								113							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2016	27								87							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2017	31								100							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2018	34								79							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2019	41								123							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2020	52								119							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2021	31								88							N/A	N/A					No							0							0
+Not Landslide	1323 Fossnes		2022	38								87							N/A	N/A					No							0							0
+Landslide		79 Bjørkemoen		2000	44								117							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2001	31								92							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2002	31								91							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2003	30								105							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2004	34								106							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2005	30								95							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2006	50								141							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2007	33								111							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2008	43								125							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2009	37								108							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2010	38								88							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2011	54								120							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2012	43								114							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2013	45								98							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2014	42								122							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2015	46								110							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2016	31								89							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2017	39								96							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2018	32								72							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2019	40								131							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2020	62								131							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2021	24								83							N/A	N/A					No							0							0
+Not Landslide	79 Bjørkemoen		2022	25								73							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2000	66								133							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2001	33								98							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2002	29								88							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2003	30								105							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2004	37								104							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2005	28								79							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2006	54								126							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2007	36								110							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2008	37								128							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2009	40								110							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2010	39								85							N/A	N/A					No							0							0
+Landslide		782 Foss			2011	13								85							N/A	N/A					No							0							0
+Landslide		782 Foss			2012	21								118							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2013	40								108							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2014	47								134							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2015	50								110							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2016	22								75							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2017	34								96							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2018	22								69							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2019	36								109							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2020	53								121							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2021	26								75							N/A	N/A					No							0							0
+Not Landslide	782 Foss			2022	32								77							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2000	65								132							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2001	30								92							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2002	29								88							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2003	29								104							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2004	34								106							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2005	29								94							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2006	50								140							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2007	32								109							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2008	42								124							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2009	36								108							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2010	37								88							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2011	55								123							N/A	N/A					No							0							0
+Landslide		89 Hilton			2012	19								128							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2013	44								97							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2014	41								120							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2015	45								112							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2016	30								88							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2017	40								96							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2018	34								74							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2019	39								128							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2020	64								134							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2021	23								83							N/A	N/A					No							0							0
+Not Landslide	89 Hilton			2022	26								74							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2000	67								142							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2001	33								100							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2002	26								82							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2003	31								96							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2004	30								94							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2005	26								82							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2006	41								116							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2007	33								93							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2008	28								106							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2009	37								100							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2010	33								75							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2011	55								118							N/A	N/A					No							0							0
+Landslide		534 Vestby			2012	33								107							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2013	43								95							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2014	37								119							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2015	50								120							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2016	29								90							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2017	45								106							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2018	43								87							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2019	39								133							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2020	57								134							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2021	29								91							N/A	N/A					No							0							0
+Not Landslide	534 Vestby			2022	27								89							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2000	53								123							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2001	37								96							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2002	37								98							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2003	31								102							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2004	39								117							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2005	32								104							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2006	49								136							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2007	33								110							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2008	36								119							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2009	43								111							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2010	47								99							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2011	51								118							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2012	47								118							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2013	36								89							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2014	33								104							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2015	40								98							N/A	N/A					No							0							0
+Landslide		394 Bøler			2016	21								97							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2017	30								84							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2018	29								73							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2019	37								119							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2020	52								127							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2021	24								83							N/A	N/A					No							0							0
+Not Landslide	394 Bøler			2022	25								82							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2000	66								137							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2001	31								97							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2002	26								83							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2003	28								94							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2004	30								95							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2005	27								83							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2006	43								125							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2007	34								94							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2008	30								108							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2009	36								103							N/A	N/A					No							0							0
+Not Landslide	517 Ånåsrud Nord	2010	34								80							6	7					Yes							0							0
+Not Landslide	517 Ånåsrud Nord	2011	58								126							N/A	N/A					No							0.8							0.8
+Not Landslide	517 Ånåsrud Nord	2012	46								114							N/A	N/A					No							1.6							0.8
+Not Landslide	517 Ånåsrud Nord	2013	43								99							6	7					Yes							2.4							0.8
+Not Landslide	517 Ånåsrud Nord	2014	38								121							N/A	N/A					No							0.68						0.68
+Not Landslide	517 Ånåsrud Nord	2015	50								123							3	12					Yes							1.36						0.68
+Not Landslide	517 Ånåsrud Nord	2016	28								89							N/A	N/A					No							1.36						0.45
+Not Landslide	517 Ånåsrud Nord	2017	44								104							N/A	N/A					No							1.36						0.34
+Not Landslide	517 Ånåsrud Nord	2018	43								88							N/A	N/A					No							1.36						0.27
+Not Landslide	517 Ånåsrud Nord	2019	40								136							N/A	N/A					No							1.36						0.23
+Landslide		517 Ånåsrud Nord	2020	26								146							N/A	N/A					No							1.36						0.19
+Not Landslide	517 Ånåsrud Nord	2021	27								86							N/A	N/A					No							1.36						0.17
+Not Landslide	517 Ånåsrud Nord	2022	27								83							N/A	N/A					No							1.36						0.15
+Not Landslide	521 Nygård			2000	66								137							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2001	31								97							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2002	26								83							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2003	28								94							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2004	30								95							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2005	27								83							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2006	43								125							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2007	34								94							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2008	30								108							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2009	36								103							N/A	N/A					No							0							0
+Not Landslide	521 Nygård			2010	34								80							6	7					Yes							0							0
+Not Landslide	521 Nygård			2011	58								126							N/A	N/A					No							0.21						0.21
+Not Landslide	521 Nygård			2012	46								114							N/A	N/A					No							0.43						0.22
+Not Landslide	521 Nygård			2013	43								99							6	7					Yes							0.64						0.21
+Not Landslide	521 Nygård			2014	38								121							N/A	N/A					No							0.35						0.35
+Not Landslide	521 Nygård			2015	50								123							3	12					Yes							0.69						0.35
+Not Landslide	521 Nygård			2016	28								89							N/A	N/A					No							0.12						0.12
+Not Landslide	521 Nygård			2017	44								104							N/A	N/A					No							0.23						0.12
+Not Landslide	521 Nygård			2018	43								88							N/A	N/A					No							0.35						0.12
+Not Landslide	521 Nygård			2019	40								136							N/A	N/A					No							0.46						0.12
+Landslide		521 Nygård			2020	48								118							19	4					Yes							0.58						0.12
+Not Landslide	521 Nygård			2021	27								86							N/A	N/A					No							0.58						0.1
+Not Landslide	521 Nygård			2022	27								83							N/A	N/A					No							0.58						0.08
+Not Landslide	470 Hønsisletta		2000	68								134							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2001	31								94							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2002	27								87							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2003	30								102							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2004	34								106							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2005	31								95							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2006	49								136							N/A	N/A					No							0							0
+Not Landslide	470 Hønsisletta		2007	32								109							1	1					Yes							0							0
+Not Landslide	470 Hønsisletta		2008	40								121							N/A	N/A					No							0.37						0.37
+Not Landslide	470 Hønsisletta		2009	36								107							N/A	N/A					No							0.73						0.37
+Not Landslide	470 Hønsisletta		2010	36								85							N/A	N/A					No							1.1							0.37
+Not Landslide	470 Hønsisletta		2011	53								118							N/A	N/A					No							1.47						0.37
+Not Landslide	470 Hønsisletta		2012	41								111							N/A	N/A					No							1.83						0.37
+Not Landslide	470 Hønsisletta		2013	46								100							6	7					Yes							2.2							0.37
+Not Landslide	470 Hønsisletta		2014	41								119							N/A	N/A					No							1.26						1.26
+Not Landslide	470 Hønsisletta		2015	45								112							3	12					Yes							2.52						1.26
+Not Landslide	470 Hønsisletta		2016	30								87							N/A	N/A					No							0.35						0.35
+Not Landslide	470 Hønsisletta		2017	40								95							N/A	N/A					No							0.7							0.35
+Not Landslide	470 Hønsisletta		2018	35								75							N/A	N/A					No							1.05						0.35
+Not Landslide	470 Hønsisletta		2019	38								125							N/A	N/A					No							1.4							0.35
+Landslide		470 Hønsisletta		2020	64								136							19	4					Yes							1.75						0.35
+Not Landslide	470 Hønsisletta		2021	24								85							N/A	N/A					No							1.75						0.29
+Not Landslide	470 Hønsisletta		2022	23								82							N/A	N/A					No							1.75						0.25
+Not Landslide	1383 Kåbbel Søndre	2000	71								136							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2001	33								102							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2002	30								91							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2003	30								103							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2004	35								104							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2005	32								80							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2006	54								126							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2007	40								114							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2008	33								121							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2009	35								90							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2010	36								81							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2011	47								119							N/A	N/A					No							0							0
+Landslide		1383 Kåbbel Søndre	2012	29								90							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2013	38								97							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2014	50								124							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2015	47								126							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2016	27								87							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2017	35								106							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2018	24								75							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2019	40								121							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2020	51								113							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2021	25								73							N/A	N/A					No							0							0
+Not Landslide	1383 Kåbbel Søndre	2022	53								104							N/A	N/A					No							0							0
