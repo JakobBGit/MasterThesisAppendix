@@ -1,0 +1,99 @@
+__________________________________________________________________
+clear all
+clc
+ 
+Fname = 'Example';
+TT=readtimetable([Fname,'.csv'],'NumHeaderLines', 1);  % read the file; convert to timetable
+TT.Properties.VariableNames{1} = 'R_S_mm'; %renaming the precipitation variable
+R = standardizeMissing(TT, 65535); % identifying the cells with 65535 as nodata and removing them
+TT = rmmissing(R);
+TR1 = timerange('01.01.1990','01.01.2023'); %setting timerange for the dataset
+TT = TT(TR1,:);
+ 
+TTmS = retime(TT,'monthly','sum');
+TTyS = retime(TT,'yearly','sum');
+TTyS = retime(TT,'yearly','sum');
+ 
+TT2 = [datetime(1989,12,31):calmonths(3):datetime(2023,04,01)]'; %defining the seasons, dec-feb(winter), mar-may, jun-aug, sep-nov
+TTsS = retime(TT,TT2,'sum'); %seasonal Sum of rain and snowmelt
+TTsSM = retime(TTsS, 'yearly', 'max');%max of the seasonal Sum
+ 
+[~, mon, ~] = ymd(TTsS.Date);
+WinterSeason = TTsS(mon == 12, :);
+SpringSeason = TTsS(mon == 3, :);
+SummerSeason = TTsS(mon == 6, :);
+AutumnSeason = TTsS(mon == 9, :);
+ 
+ 
+yearlymean = mean(TTyS.R_S_mm);
+ 
+percentofyear = ((TTyS.R_S_mm / yearlymean)*100);
+ 
+TTyS = addvars(TTyS, percentofyear);
+ 
+percentofyearSeason = ((TTsS.R_S_mm / yearlymean)*100);
+ 
+TTsS = addvars(TTsS, percentofyearSeason);
+ 
+TTsSM = retime(TTsS, 'yearly', 'max');%max of the seasonal Sum
+ 
+%%
+TRS = timerange('2019','years');
+OneYearS = TTsM(TRS,:);
+max(OneYearS.WaterSupplyPer)
+ 
+%%
+ 
+TR = timerange('2019','years');
+OneYear = TTmM(TR,:);
+b = bar(OneYear.Date,OneYear.WaterSupplyPer, 'b');
+b.FaceColor = 'flat';
+b.CData(9,:) = [1,0,0];
+title('Monthly')
+ylabel('Mean Water Supply %')
+ 
+exportgraphics(gca,strcat(Fname,'Monthly_mean.png'))
+ 
+%%
+hold on
+b = bar(TTyM.Date,TTyM.WaterSupplyPer,0.7, 'b');
+TTyMD = TTyM('01.01.2019',:);
+b2 = bar(TTyMD.Date,TTyMD.WaterSupplyPer, 310, 'r','EdgeColor', 'none');
+title('Yearly Mean Water Supply')
+ylabel('Mean Water Supply in %')
+xlabel('Years')
+%ylim([2 4])
+hold off
+exportgraphics(gca,strcat(Fname,'Yearly_mean.png'))
+ 
+%%
+hold on
+b = bar(TTsM.Date,TTsM.WaterSupplyPer, 'b');
+TTsMD = TTsM('30-Jun-2000',:);
+b2 = bar(TTsMD.Date,TTsMD.WaterSupplyPer, 75, 'r','EdgeColor', 'none');
+title('3 Month Seasons')
+ylabel('Mean Water Supply in %')
+xlabel('Years')
+%ylim([0 8])
+hold off
+ 
+exportgraphics(gca,strcat(Fname,'Season_mean.png'))
+ 
+%%
+ 
+TR = timerange('15.07.2000','months');
+OneMonth = TT(TR,:);
+TR2 = OneMonth('15.07.2000 06:00',:);
+hold on
+b = bar(OneMonth.Date,OneMonth.WaterSupplyPer, 'b');
+b2 = bar(TR2.Date,TR2.WaterSupplyPer, 'r');
+%ax = gca;
+%ax.XTick = OneMonth.Date;
+title('Daily Water Supply')
+ylabel('Mean Water Supply in %')
+hold off
+ 
+exportgraphics(gca,strcat(Fname,'Daily_mean.png'))
+ 
+ 
+__________________________________________________________________
